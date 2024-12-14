@@ -1,0 +1,586 @@
+{
+  "task_solutions": {
+    "basic_001": [
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "find_objects",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "find_objects",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "find_objects",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "predict_output"
+      ]
+    ],
+    "003": [
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "find_objects",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "find_objects",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "find_objects",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "predict_output"
+      ]
+    ],
+    "abstract_001": [
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "find_objects",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "find_objects",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "find_objects",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "predict_output"
+      ]
+    ],
+    "basic_002": [
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "find_objects",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "find_objects",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "find_objects",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "predict_output"
+      ]
+    ],
+    "conditional_002": [
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "find_objects",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "find_objects",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "find_objects",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "predict_output"
+      ]
+    ],
+    "abstract_002": [
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "find_objects",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "detect_patterns",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "find_objects",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "find_objects",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "get_object_relations",
+        "predict_output"
+      ],
+      [
+        "analyze_transformations",
+        "predict_output"
+      ]
+    ]
+  },
+  "function_stats": {
+    "find_objects": {
+      "successes": 5829,
+      "attempts": 90206,
+      "tasks_solved": [
+        "003",
+        "abstract_001",
+        "abstract_002",
+        "basic_001",
+        "basic_002",
+        "conditional_002"
+      ]
+    },
+    "get_object_relations": {
+      "successes": 5829,
+      "attempts": 90206,
+      "tasks_solved": [
+        "003",
+        "abstract_001",
+        "abstract_002",
+        "basic_001",
+        "basic_002",
+        "conditional_002"
+      ]
+    },
+    "detect_patterns": {
+      "successes": 5829,
+      "attempts": 90206,
+      "tasks_solved": [
+        "003",
+        "abstract_001",
+        "abstract_002",
+        "basic_001",
+        "basic_002",
+        "conditional_002"
+      ]
+    },
+    "analyze_transformations": {
+      "successes": 15284,
+      "attempts": 90194,
+      "tasks_solved": [
+        "003",
+        "abstract_001",
+        "abstract_002",
+        "basic_001",
+        "basic_002",
+        "conditional_002"
+      ]
+    },
+    "find_rules": {
+      "successes": 0,
+      "attempts": 624,
+      "tasks_solved": []
+    },
+    "predict_output": {
+      "successes": 13601,
+      "attempts": 85775,
+      "tasks_solved": [
+        "003",
+        "abstract_001",
+        "abstract_002",
+        "basic_001",
+        "basic_002",
+        "conditional_002"
+      ]
+    }
+  },
+  "combination_stats": {
+    "find_objects": {
+      "successes": 0,
+      "attempts": 7267,
+      "tasks_solved": []
+    },
+    "get_object_relations": {
+      "successes": 0,
+      "attempts": 7267,
+      "tasks_solved": []
+    },
+    "detect_patterns": {
+      "successes": 0,
+      "attempts": 7267,
+      "tasks_solved": []
+    },
+    "analyze_transformations": {
+      "successes": 0,
+      "attempts": 7257,
+      "tasks_solved": []
+    },
+    "find_rules": {
+      "successes": 0,
+      "attempts": 39,
+      "tasks_solved": []
+    },
+    "find_objects,get_object_relations": {
+      "successes": 0,
+      "attempts": 7257,
+      "tasks_solved": []
+    },
+    "detect_patterns,find_objects": {
+      "successes": 0,
+      "attempts": 7257,
+      "tasks_solved": []
+    },
+    "analyze_transformations,find_objects": {
+      "successes": 0,
+      "attempts": 7257,
+      "tasks_solved": []
+    },
+    "find_objects,find_rules": {
+      "successes": 0,
+      "attempts": 39,
+      "tasks_solved": []
+    },
+    "detect_patterns,get_object_relations": {
+      "successes": 0,
+      "attempts": 7257,
+      "tasks_solved": []
+    },
+    "analyze_transformations,get_object_relations": {
+      "successes": 0,
+      "attempts": 7257,
+      "tasks_solved": []
+    },
+    "find_rules,get_object_relations": {
+      "successes": 0,
+      "attempts": 39,
+      "tasks_solved": []
+    },
+    "analyze_transformations,detect_patterns": {
+      "successes": 0,
+      "attempts": 7257,
+      "tasks_solved": []
+    },
+    "detect_patterns,find_rules": {
+      "successes": 0,
+      "attempts": 39,
+      "tasks_solved": []
+    },
+    "analyze_transformations,find_rules": {
+      "successes": 0,
+      "attempts": 39,
+      "tasks_solved": []
+    },
+    "detect_patterns,find_objects,get_object_relations": {
+      "successes": 0,
+      "attempts": 5572,
+      "tasks_solved": []
+    },
+    "analyze_transformations,find_objects,get_object_relations": {
+      "successes": 0,
+      "attempts": 5572,
+      "tasks_solved": []
+    },
+    "find_objects,find_rules,get_object_relations": {
+      "successes": 0,
+      "attempts": 39,
+      "tasks_solved": []
+    },
+    "analyze_transformations,detect_patterns,find_objects": {
+      "successes": 0,
+      "attempts": 5572,
+      "tasks_solved": []
+    },
+    "detect_patterns,find_objects,find_rules": {
+      "successes": 0,
+      "attempts": 39,
+      "tasks_solved": []
+    },
+    "analyze_transformations,find_objects,find_rules": {
+      "successes": 0,
+      "attempts": 39,
+      "tasks_solved": []
+    },
+    "analyze_transformations,detect_patterns,get_object_relations": {
+      "successes": 0,
+      "attempts": 5572,
+      "tasks_solved": []
+    },
+    "detect_patterns,find_rules,get_object_relations": {
+      "successes": 0,
+      "attempts": 39,
+      "tasks_solved": []
+    },
+    "analyze_transformations,find_rules,get_object_relations": {
+      "successes": 0,
+      "attempts": 39,
+      "tasks_solved": []
+    },
+    "analyze_transformations,detect_patterns,find_rules": {
+      "successes": 0,
+      "attempts": 39,
+      "tasks_solved": []
+    },
+    "analyze_transformations,detect_patterns,find_objects,get_object_relations": {
+      "successes": 0,
+      "attempts": 5572,
+      "tasks_solved": []
+    },
+    "detect_patterns,find_objects,find_rules,get_object_relations": {
+      "successes": 0,
+      "attempts": 39,
+      "tasks_solved": []
+    },
+    "analyze_transformations,find_objects,find_rules,get_object_relations": {
+      "successes": 0,
+      "attempts": 39,
+      "tasks_solved": []
+    },
+    "analyze_transformations,detect_patterns,find_objects,find_rules": {
+      "successes": 0,
+      "attempts": 39,
+      "tasks_solved": []
+    },
+    "analyze_transformations,detect_patterns,find_rules,get_object_relations": {
+      "successes": 0,
+      "attempts": 39,
+      "tasks_solved": []
+    },
+    "analyze_transformations,detect_patterns,find_objects,find_rules,get_object_relations": {
+      "successes": 0,
+      "attempts": 39,
+      "tasks_solved": []
+    },
+    "predict_output": {
+      "successes": 0,
+      "attempts": 6954,
+      "tasks_solved": []
+    },
+    "find_objects,predict_output": {
+      "successes": 0,
+      "attempts": 6954,
+      "tasks_solved": []
+    },
+    "get_object_relations,predict_output": {
+      "successes": 0,
+      "attempts": 6954,
+      "tasks_solved": []
+    },
+    "detect_patterns,predict_output": {
+      "successes": 0,
+      "attempts": 6954,
+      "tasks_solved": []
+    },
+    "analyze_transformations,predict_output": {
+      "successes": 1943,
+      "attempts": 5269,
+      "tasks_solved": [
+        "003",
+        "abstract_001",
+        "abstract_002",
+        "basic_001",
+        "basic_002",
+        "conditional_002"
+      ]
+    },
+    "find_objects,get_object_relations,predict_output": {
+      "successes": 0,
+      "attempts": 5269,
+      "tasks_solved": []
+    },
+    "detect_patterns,find_objects,predict_output": {
+      "successes": 0,
+      "attempts": 5269,
+      "tasks_solved": []
+    },
+    "analyze_transformations,find_objects,predict_output": {
+      "successes": 1943,
+      "attempts": 5269,
+      "tasks_solved": [
+        "003",
+        "abstract_001",
+        "abstract_002",
+        "basic_001",
+        "basic_002",
+        "conditional_002"
+      ]
+    },
+    "detect_patterns,get_object_relations,predict_output": {
+      "successes": 0,
+      "attempts": 5269,
+      "tasks_solved": []
+    },
+    "analyze_transformations,get_object_relations,predict_output": {
+      "successes": 1943,
+      "attempts": 5269,
+      "tasks_solved": [
+        "003",
+        "abstract_001",
+        "abstract_002",
+        "basic_001",
+        "basic_002",
+        "conditional_002"
+      ]
+    },
+    "analyze_transformations,detect_patterns,predict_output": {
+      "successes": 1943,
+      "attempts": 5269,
+      "tasks_solved": [
+        "003",
+        "abstract_001",
+        "abstract_002",
+        "basic_001",
+        "basic_002",
+        "conditional_002"
+      ]
+    },
+    "detect_patterns,find_objects,get_object_relations,predict_output": {
+      "successes": 0,
+      "attempts": 5269,
+      "tasks_solved": []
+    },
+    "analyze_transformations,find_objects,get_object_relations,predict_output": {
+      "successes": 1943,
+      "attempts": 5269,
+      "tasks_solved": [
+        "003",
+        "abstract_001",
+        "abstract_002",
+        "basic_001",
+        "basic_002",
+        "conditional_002"
+      ]
+    },
+    "analyze_transformations,detect_patterns,find_objects,predict_output": {
+      "successes": 1943,
+      "attempts": 5269,
+      "tasks_solved": [
+        "003",
+        "abstract_001",
+        "abstract_002",
+        "basic_001",
+        "basic_002",
+        "conditional_002"
+      ]
+    },
+    "analyze_transformations,detect_patterns,get_object_relations,predict_output": {
+      "successes": 1943,
+      "attempts": 5269,
+      "tasks_solved": [
+        "003",
+        "abstract_001",
+        "abstract_002",
+        "basic_001",
+        "basic_002",
+        "conditional_002"
+      ]
+    }
+  }
+}

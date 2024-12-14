@@ -1,0 +1,150 @@
+{
+  "task_solutions": {},
+  "analysis_stats": {
+    "pattern_test_001": {
+      "attempts": 381,
+      "successes": 0,
+      "pattern_types": {
+        "symmetry": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "progression": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "repetition": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "spatial": {
+          "found": 381,
+          "led_to_success": 0
+        }
+      },
+      "transform_types": {
+        "value_mappings": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "object_transforms": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "spatial_transforms": {
+          "found": 381,
+          "led_to_success": 0
+        }
+      }
+    },
+    "basic_001": {
+      "attempts": 381,
+      "successes": 0,
+      "pattern_types": {
+        "symmetry": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "progression": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "repetition": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "spatial": {
+          "found": 381,
+          "led_to_success": 0
+        }
+      },
+      "transform_types": {
+        "value_mappings": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "object_transforms": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "spatial_transforms": {
+          "found": 381,
+          "led_to_success": 0
+        }
+      }
+    },
+    "002": {
+      "attempts": 381,
+      "successes": 0,
+      "pattern_types": {
+        "symmetry": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "progression": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "repetition": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "spatial": {
+          "found": 381,
+          "led_to_success": 0
+        }
+      },
+      "transform_types": {
+        "value_mappings": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "object_transforms": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "spatial_transforms": {
+          "found": 381,
+          "led_to_success": 0
+        }
+      }
+    },
+    "003": {
+      "attempts": 381,
+      "successes": 0,
+      "pattern_types": {
+        "symmetry": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "progression": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "repetition": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "spatial": {
+          "found": 381,
+          "led_to_success": 0
+        }
+      },
+      "transform_types": {
+        "value_mappings": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "object_transforms": {
+          "found": 381,
+          "led_to_success": 0
+        },
+        "spatial_transforms": {
+          "found": 381,
+          "led_to_success": 0
+        }
+      }
+    }
+  },
+  "training_examples": {}
+}

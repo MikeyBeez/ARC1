@@ -1,0 +1,8 @@
+{
+  "basic_transformation": "Tasks testing basic grid transformations",
+  "pattern_completion": "Tasks requiring pattern recognition and completion",
+  "spatial_reasoning": "Tasks testing spatial manipulation and understanding",
+  "abstract_rules": "Tasks requiring understanding of abstract transformation rules",
+  "multi_step_reasoning": "Tasks requiring multiple transformation steps",
+  "conditional_logic": "Tasks with conditional transformation rules"
+}

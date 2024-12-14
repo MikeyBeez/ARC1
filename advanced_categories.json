@@ -1,0 +1,39 @@
+{
+  "categories": {
+    "symmetry_and_reflection": {
+      "description": "Tasks involving mirroring, reflection, and symmetrical transformations",
+      "skills": ["spatial_awareness", "pattern_matching", "symmetry_detection"],
+      "difficulty": 3
+    },
+    "recursive_patterns": {
+      "description": "Patterns that build upon themselves or follow recursive rules",
+      "skills": ["sequence_prediction", "rule_extraction", "pattern_continuation"],
+      "difficulty": 4
+    },
+    "object_persistence": {
+      "description": "Track and transform objects while maintaining identity",
+      "skills": ["object_tracking", "property_preservation", "transformation_tracking"],
+      "difficulty": 3
+    },
+    "dynamic_rules": {
+      "description": "Rules that change based on context or previous transformations",
+      "skills": ["conditional_reasoning", "context_awareness", "rule_adaptation"],
+      "difficulty": 5
+    },
+    "meta_patterns": {
+      "description": "Patterns about how patterns change or evolve",
+      "skills": ["meta_cognition", "pattern_evolution", "abstraction"],
+      "difficulty": 5
+    },
+    "analogical_transfer": {
+      "description": "Apply transformations from one context to another",
+      "skills": ["analogical_reasoning", "concept_transfer", "abstraction"],
+      "difficulty": 4
+    }
+  },
+  "skill_dependencies": {
+    "pattern_recognition": ["basic_perception", "feature_extraction"],
+    "rule_inference": ["pattern_recognition", "hypothesis_generation"],
+    "analogical_reasoning": ["pattern_recognition", "abstraction", "transfer_learning"]
+  }
+}

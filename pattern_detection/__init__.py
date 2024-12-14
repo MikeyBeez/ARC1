@@ -1,0 +1,1 @@
+"""Pattern detection package for ARC challenge"""
